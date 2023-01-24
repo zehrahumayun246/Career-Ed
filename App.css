@@ -1,0 +1,149 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+.profile-rating
+{
+  color: black;
+}
+.Whitekren{
+  color: #fff;
+}
+.App2{
+  background-color: black;
+}
+.comments{
+  align-content: right;
+  left: 430px;
+  top:-600px;
+  position: relative;
+}
+.banner
+{
+  width: 100%;
+  height: 100vh;
+  background: url("/src/Components/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.banner__content{
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  color: #fff;
+}
+.container{
+  width: 1200px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.banner__text
+{
+  width: 500px;
+}
+.banner__text h3{
+  font-size: 50px;
+}
+.banner__text h1{
+  font-size: 80px;
+  line-height: 80px;
+  font-weight:900;
+  margin-top: 20px;
+}
+.banner__text p{
+  font-size: 25px;
+  font-weight: 400;
+  margin-top: 20px;
+}
+
+.hustleri h3{
+  color: black;
+  font-size: 30 px;
+  margin-bottom:12px;
+  font-weight: 700;
+}
+
+.banner__btn{
+  margin-top: 30px;
+}
+.p-25{
+  padding: 45px;
+}
+.hustleri h3{
+  color: black;
+  font-size: 30px;
+  margin-bottom: 12px;
+  font-weight: 700;
+}
+
+.hustleri p{
+  font-size: 20px;
+  color: gray;
+  font-weight: 300;
+}
+.hustleri p2{
+  font-size: 20px;
+  color: gray;
+  font-weight: 300;
+}
+.hustleri__img{
+  align-content: left;
+ right:-800px;
+ top:-450px;
+  position:relative;
+  width: 100%;
+  overflow: hidden;
+}
+.profi__img{
+  align-content: left;
+ right:-100px;
+ top: 1400px;
+  position:absolute;
+  width: 100%;
+  overflow: hidden;
+}
+.profi h3{
+  position: relative;
+  top: -230px;
+  
+  right:-700px;
+  font-size: 30px;
+  margin-bottom: 12px;
+  font-weight: 700;
+}
+.profi p{
+  position: relative;
+  top: -200px;
+  right:-700px;
+  font-size: 20px;
+  color: gray;
+  font-weight: 300;
+}
+.profi p2{
+  position: relative;
+  top: -200px;
+  font-size: 20px;
+  color: gray;
+  font-weight: 300;
+  right:-700px;
+}
+.profi h1{
+  position: relative;
+  top: -220px;
+  right:-700px;
+  
+}
+.hustleri__img img{
+  width: 100%;
+}
+.main-footer{
+  background-color: grey;
+  font-size: 20px;
+  color: black;
+  font-weight: 300;
+  
+}
